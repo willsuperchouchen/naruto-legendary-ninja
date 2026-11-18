@@ -1,0 +1,1 @@
+"use strict";EVEIL.fm_gaara={transfo:!0,duree:0,animAvant:!0,aura:null,couleur:"#d9b26a"},TRANSFO.fm_gaara="ent_gaara_shukaku";

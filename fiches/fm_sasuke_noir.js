@@ -1,0 +1,1 @@
+"use strict";KITS.fm_sasuke_noir={avant:{nom:"Katon",move:"sp2",degats:20,cout:20,vitesse:7},bas:{nom:"Fureur du lion",move:"sp1",degats:20,cout:20,effet:"fureur"},haut:{nom:"Chidori",move:"sp3",degats:40,cout:70,course:[17,23]}},EVEIL.fm_sasuke_noir={transfo:!0,duree:0,force:1.25,vitesse:1.25,aura:null,couleur:"#9a5aff"},TRANSFO.fm_sasuke_noir="fm_sasuke_lv2";

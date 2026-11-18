@@ -1,0 +1,1 @@
+"use strict";KITS.fm_sakura={haut:{nom:"Coup de poing au sol",move:"sp3",degats:40,cout:80,course:[0,12]}};

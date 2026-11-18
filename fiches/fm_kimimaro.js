@@ -1,0 +1,1 @@
+"use strict";EVEIL.fm_kimimaro={transfo:!0,duree:0,aura:null,couleur:"#e8e8ff"},TRANSFO.fm_kimimaro="fm_kimimaro_lv2";

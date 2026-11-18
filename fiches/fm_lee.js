@@ -1,0 +1,1 @@
+"use strict";KITS.fm_lee={bas:{nom:"Lotus",move:"sp2",degats:20,cout:20,effet:"fureur"}},EVEIL.fm_lee={transfo:!0,duree:0,aura:"vert 1",couleur:"#5fe06a"},TRANSFO.fm_lee="fm_lee_8_portes";

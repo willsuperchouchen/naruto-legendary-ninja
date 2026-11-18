@@ -1,0 +1,1 @@
+"use strict";KITS.fm_lee_8_portes={bas:{nom:"Lotus",move:"sp2",degats:20,cout:20,effet:"fureur"}};
